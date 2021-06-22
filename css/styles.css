@@ -121,7 +121,7 @@ footer {
   background-color: #0b84d4;
 }
 #mainnav a:hover {
-    background-color: #000000;
+    background-color: #0bb6d4;
 }
 #mainnav {
     grid-template-columns: none;
@@ -211,7 +211,7 @@ footer {
   font-size: 13px;
 }
 #sidenav a:hover {
-  background-color: #000000;
+  background-color: linear-gradient(90deg, rgba(11,182,212,1) 0%, rgba(0,255,218,1) 100%);
 }
 #sidenav ul {
   margin: 0;
