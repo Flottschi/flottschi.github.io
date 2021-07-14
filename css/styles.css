@@ -121,7 +121,7 @@ footer {
   background-color: #0b84d4;
 }
 #mainnav a:hover {
-    background-color: #000000;
+    background-color: #3db0fd;
 }
 #mainnav {
     grid-template-columns: none;
